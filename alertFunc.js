@@ -1,0 +1,4 @@
+alertClick
+alert
+
+"Hello world"
